@@ -1,0 +1,33 @@
+version: '3.0'
+
+services:
+
+  backend:
+    build: backend
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - backend_network
+
+  db:
+    image: mariadb:latest
+    restart: always
+    environment:
+      - MARIADB_DATABASE=gengendb
+      - MARIADB_ROOT_PASSWORD=test
+    healthcheck:
+      test: ['CMD', 'mysqladmin', 'ping', '-h', '127.0.0.1', '--silent']
+      interval: 3s
+      retries: 5
+      start_period: 30s
+    networks:
+      - backend_network
+    volumes:
+      - database:/var/lib/mysql
+
+networks:
+  backend_network:
+
+volumes:
+  database:
