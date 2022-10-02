@@ -1,0 +1,254 @@
+.gradients-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1257px;
+  height: 999px;
+}
+.home-div1,
+.my-profile-div1 {
+  position: absolute;
+  top: 48px;
+  left: 53px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-space-mono);
+  display: inline-block;
+  width: 80px;
+  height: 41px;
+  cursor: pointer;
+}
+.my-profile-div1 {
+  left: 146px;
+  width: 158px;
+}
+.justinexamplecom-div1 {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 284px;
+  height: 21px;
+}
+.jpn-min-1-icon2 {
+  position: absolute;
+  top: -31px;
+  left: 258px;
+  border-radius: var(--br-xl);
+  width: 161px;
+  height: 153px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.user-div1 {
+  position: absolute;
+  top: 31px;
+  left: 1021px;
+  width: 379px;
+  height: 75px;
+  text-align: right;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-600);
+}
+.create-generosity-b,
+.description-b,
+.tag-b,
+.title-b {
+  position: absolute;
+  left: 53px;
+  display: flex;
+  align-items: center;
+}
+.create-generosity-b {
+  top: 204px;
+  font-size: var(--font-size-9xl);
+  letter-spacing: -0.07em;
+  width: 984px;
+  height: 119px;
+}
+.description-b,
+.tag-b,
+.title-b {
+  top: 355px;
+  font-size: var(--font-size-4xl);
+  width: 294px;
+  height: 37px;
+}
+.description-b,
+.tag-b {
+  left: 990px;
+}
+.description-b {
+  top: 473px;
+  left: 53px;
+}
+.rectangle-div28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 15px rgba(150, 150, 150, 0.25);
+  border: 1.5px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 865px;
+  height: 58px;
+}
+.div4,
+.once-upon-a-time {
+  position: absolute;
+  top: 12px;
+  left: 23px;
+  display: flex;
+  align-items: center;
+  width: 768px;
+  height: 34px;
+}
+.div4 {
+  top: 16px;
+  left: 728.25px;
+  color: var(--color-gray-500);
+  text-align: right;
+  width: 113.69px;
+  height: 25px;
+}
+.input-div,
+.rectangle-div29 {
+  position: absolute;
+  height: 58px;
+}
+.input-div {
+  top: 392px;
+  left: 53px;
+  width: 865px;
+  color: var(--color-gray-400);
+}
+.rectangle-div29 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 15px rgba(150, 150, 150, 0.25);
+  border: 1.5px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 228px;
+}
+.mechanics-div1 {
+  position: absolute;
+  top: 12px;
+  left: 6.06px;
+  display: flex;
+  align-items: center;
+  width: 202.43px;
+  height: 34px;
+}
+.input-div1 {
+  position: absolute;
+  top: 392px;
+  left: 990px;
+  width: 228px;
+  height: 58px;
+  color: var(--color-gray-400);
+}
+.rectangle-div30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 15px rgba(150, 150, 150, 0.25);
+  border: 1.5px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 865px;
+  height: 189px;
+}
+.div5,
+.the-start-of-a-wonderful-story {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  display: inline-block;
+  width: 767px;
+  height: 111px;
+}
+.div5 {
+  top: 14.45px;
+  left: 728px;
+  color: var(--color-gray-500);
+  text-align: right;
+  width: 113.69px;
+  height: 81.47px;
+}
+.input-div2 {
+  position: absolute;
+  top: 517px;
+  left: 53px;
+  width: 865px;
+  height: 189px;
+  color: var(--color-gray-400);
+}
+.rectangle-div31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: #3eaeff;
+  box-shadow: 0 4px 10px 5px rgba(45, 167, 255, 0.25);
+  width: 251px;
+  height: 68px;
+}
+.post-b {
+  position: absolute;
+  top: 9px;
+  left: 30.34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 188.94px;
+  height: 50px;
+}
+.post-button-div {
+  position: absolute;
+  top: 738px;
+  left: 1069px;
+  width: 251px;
+  height: 68px;
+  text-align: center;
+  color: var(--color-white);
+}
+.rectangle-div32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 15px rgba(79, 79, 79, 0.25);
+  width: 68px;
+  height: 68px;
+}
+.frame-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.options-div {
+  position: absolute;
+  top: 738px;
+  left: 1332px;
+  width: 68px;
+  height: 68px;
+}
+.create-post-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

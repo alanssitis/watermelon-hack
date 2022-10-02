@@ -2,6 +2,15 @@ version: '3.0'
 
 services:
 
+  frontend:
+    build: frontend
+    depends_on:
+      - backend
+    expose:
+      - '3000'
+    networks:
+      - frontend_network
+
   backend:
     build: backend
     environment:
@@ -11,6 +20,7 @@ services:
         condition: service_healthy
     networks:
       - backend_network
+      - frontend_network
 
   db:
     image: mariadb:latest
@@ -33,6 +43,7 @@ services:
 
 networks:
   backend_network:
+  frontend_network:
 
 volumes:
   database:

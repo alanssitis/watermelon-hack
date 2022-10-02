@@ -1,0 +1,17 @@
+<svg width="110" height="110" viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_38_46)">
+<ellipse cx="55.279" cy="47.9268" rx="24.6325" ry="24.803" fill="#DE0661"/>
+<path d="M52.1546 52.2679L62.5385 41.8122C62.8435 41.505 63.3381 41.505 63.6432 41.8122C63.9482 42.1193 63.9482 42.6174 63.6432 42.9245L52.707 53.9364C52.4019 54.2436 51.9073 54.2436 51.6023 53.9364L46.9153 49.2171C46.6103 48.9099 46.6103 48.4119 46.9153 48.1047C47.2204 47.7975 47.715 47.7975 48.02 48.1047L52.1546 52.2679Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_38_46" x="0.646484" y="0.123779" width="109.265" height="109.606" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.616667 0 0 0 0 0.0102777 0 0 0 0 0.264961 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_38_46"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_38_46" result="shape"/>
+</filter>
+</defs>
+</svg>

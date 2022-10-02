@@ -1,0 +1,242 @@
+.login-to-your-account {
+  position: absolute;
+  top: 274px;
+  left: 198px;
+  font-size: var(--font-size-2xl);
+  line-height: 36px;
+  display: inline-block;
+}
+.yournameemailcom-div1 {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  line-height: 16px;
+  display: inline-block;
+}
+.group-div30,
+.rectangle-div25 {
+  position: absolute;
+  left: 0;
+  width: 400px;
+  height: 40px;
+}
+.rectangle-div25 {
+  top: 0;
+  border-radius: var(--br-2xs);
+  box-shadow: 0 2px 2px 2px rgba(204, 204, 204, 0.1);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+}
+.group-div30 {
+  top: 28px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1100);
+}
+.email-address-div1 {
+  position: absolute;
+  top: 371px;
+  left: 200px;
+  width: 400px;
+  height: 68px;
+}
+.community-div,
+.optional-div1 {
+  position: absolute;
+  display: inline-block;
+}
+.community-div {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+}
+.optional-div1 {
+  top: 5px;
+  left: 77px;
+  line-height: 16px;
+  color: var(--color-gray-200);
+}
+.group-icon21 {
+  position: absolute;
+  height: 40%;
+  width: 4%;
+  top: 30%;
+  right: 4%;
+  bottom: 30%;
+  left: 92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div31 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  width: 400px;
+  height: 40px;
+  color: var(--color-gray-1100);
+}
+.communitylocation-div2 {
+  position: absolute;
+  top: 736px;
+  left: 194px;
+  width: 400px;
+  height: 68px;
+  display: none;
+  font-size: var(--font-size-xs);
+}
+.enter-password-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.group-icon22 {
+  position: absolute;
+  top: 26px;
+  left: -4px;
+  width: 408px;
+  height: 48px;
+}
+.password-div,
+.rectangle-div27 {
+  position: absolute;
+  top: 461px;
+  left: 200px;
+  width: 400px;
+  height: 68px;
+}
+.rectangle-div27 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-red);
+  box-shadow: 0 2px 2px 2px rgba(204, 204, 204, 0.1);
+  border: 1px solid var(--color-red);
+  box-sizing: border-box;
+  height: 40px;
+  cursor: pointer;
+}
+.login-b1 {
+  position: absolute;
+  top: 8px;
+  left: 171px;
+  line-height: 24px;
+  display: inline-block;
+}
+.login-button-div {
+  position: absolute;
+  top: 574px;
+  left: 200px;
+  width: 400px;
+  height: 40px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.gengen-b2,
+.register-b {
+  position: absolute;
+  line-height: 24px;
+  display: inline-block;
+}
+.gengen-b2 {
+  top: 40px;
+  left: 64px;
+  font-size: var(--font-size-6xl);
+  background: linear-gradient(
+    93.38deg,
+    #ff6428,
+    #ff6428 37.08%,
+    #ff6428 83.25%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+.register-b {
+  top: 0;
+  left: 206px;
+  text-decoration: underline;
+  color: var(--color-gray-800);
+}
+.redirect-to-register {
+  position: absolute;
+  top: 655px;
+  left: 244px;
+  width: 271px;
+  height: 24px;
+  cursor: pointer;
+  color: var(--color-gray-200);
+}
+.orange-block-div {
+  position: absolute;
+  top: 0;
+  left: 787px;
+  background: linear-gradient(
+    162.21deg,
+    #ff8c60 1.09%,
+    #ff7846 28.65%,
+    #ff2e00
+  );
+  filter: blur(5px);
+  width: 653px;
+  height: 1024px;
+}
+.b3,
+.john-bunyan1,
+.you-have-not-lived-today-until1 {
+  position: absolute;
+  top: 224px;
+  line-height: 24px;
+  display: inline-block;
+}
+.john-bunyan1 {
+  left: 11px;
+  width: 172px;
+}
+.b3,
+.you-have-not-lived-today-until1 {
+  left: 0;
+  font-size: var(--font-size-base);
+}
+.you-have-not-lived-today-until1 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  line-height: 50px;
+  width: 432px;
+  height: 212px;
+}
+.quote-div {
+  position: absolute;
+  top: 388px;
+  left: 909px;
+  width: 432px;
+  height: 248px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.stroke-5-icon2 {
+  position: absolute;
+  height: 60.34%;
+  width: 46.59%;
+  top: 0;
+  right: 53.41%;
+  bottom: 39.66%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.05;
+}
+.login-page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-space-grotesk);
+}
