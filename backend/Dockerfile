@@ -7,9 +7,10 @@ COPY go.mod ./
 COPY go.sum ./
 RUN go mod download
 
-COPY *.go ./
+ADD cmd ./cmd
+ADD pkg ./pkg
 
-RUN go build -o /backend
+RUN go build -o /backend ./cmd/backend/main.go
 
 # Deploy
 FROM debian:bullseye-slim
